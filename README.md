@@ -27,6 +27,8 @@ The goal of this assignment is to train a neural network to detect a thing of yo
 
 We will be compiling and using dlib's image annotation tool called `imglab`. It's a little awkward, but works well.  Be aware the following steps are totally separate and happen outside of openFrameworks.
 
+-   First, you may need to install [xquartz](https://www.xquartz.org/) on macOS. Linux folks don't need this.
+
 From the terminal ...
 
 -   Make a directory somewhere and clone dlib into it
